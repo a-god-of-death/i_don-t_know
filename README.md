@@ -1,4 +1,5 @@
 # Simple data analysis
 ## including 3 files
-use python to analyze data
-data from network
+1.use python to analyze data
+
+2.data from network
