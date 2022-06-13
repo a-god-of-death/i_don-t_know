@@ -1,3 +1,4 @@
-# i_don-t_know
-## editing the file
-It's the markdown file in the repository.
+# Simple data analysis
+## including 3 files
+use python to analyze data
+data from network
